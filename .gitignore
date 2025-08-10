@@ -1,0 +1,38 @@
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (raw or processed)
+Data/
+*.csv
+*.xlsx
+*.json
+*.h5
+*.pkl
+*.joblib
+
+# Images and figures (optional — remove this if you want to keep them)
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Presentations and documents
+*.pptx
+*.docx
+*.pdf
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.tmp
+*.log
+*.bak
